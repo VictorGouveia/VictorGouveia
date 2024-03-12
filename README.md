@@ -1,6 +1,11 @@
 ### "Hello World"! Eu sou o Victor Gouveia 😁🤙
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vgouveia01)
+<div>
+  <a href="https://www.linkedin.com/in/victor-gouveia-646025289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vgouveia01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victorgouveia09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 
 ![!VictorGouveia GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGouveia&show_icons=true&theme=dracula&count_private=true)
 
@@ -12,9 +17,14 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
 </div><br/>
 
-Apaixonado por tecnologia. Sempre buscando mais conhecimentos.
+Apaixonado por tecnologia. Sempre buscando mais conhecimentos.<br/>
+
+<div>
+  
+</div>
+
+
 
